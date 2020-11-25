@@ -1,0 +1,7 @@
+{
+  "baseUrl": "http://automationpractice.com",
+  "viewportWidth": 1240,
+  "viewportHeight": 660,
+  "video": false,
+  "screenshotOnRunFailure": false
+}
